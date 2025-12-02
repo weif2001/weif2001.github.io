@@ -1,8 +1,7 @@
 ---
-layout: home
+layout: single
 title: "About me"
+author_profile: true
 ---
 
-I am a fourth year Ph.D. student in Statistics and Data Science at the Wharton School, University of Pennsylvania. I'm fortunate to be advised by Yuting Wei.
-
-This is my simple Jekyll homepage on GitHub Pages.
+Hi! I’m Wei Fan, a fourth year PhD student in Statistics and Data Science at the Wharton School of the University of Pennsylvania.
