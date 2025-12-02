@@ -46,7 +46,7 @@ author_profile: true
 ---
 
 ### [Approximate Message Passing From Random Initialization with Applications to $Z_2$ Synchronization](https://www.pnas.org/doi/abs/10.1073/pnas.2302930120)
-  - Gen Li, Wei Fan, Yuting Wei
+  - Gen Li, **Wei Fan**, Yuting Wei
   - Proceedings of the National Academy of Sciences, 2023
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -56,7 +56,7 @@ This paper is concerned with the problem of reconstructing an unknown rank-one m
 ---
 
 ### [A Hyperbolic Divergence Based Nonparametric Test for Two-sample Multivariate Distributions](https://onlinelibrary.wiley.com/doi/full/10.1002/cjs.11736)
-  - Roulin Wang, Wei Fan, Xueqin Wang
+  - Roulin Wang, **Wei Fan**, Xueqin Wang
   - Canadian Journal of Statistics, 2022
 <details>
   <summary><strong>Abstract</strong></summary>
