@@ -10,6 +10,9 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
+header:
+  layout: "navbar"
+
 
 # Author info for the left sidebar
 author:
