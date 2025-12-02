@@ -4,3 +4,8 @@ url: "https://weif2001.github.io"
 baseurl: ""
 
 theme: minima
+
+header_pages:
+  - index.md
+  - about.md
+
