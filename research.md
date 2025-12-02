@@ -1,16 +1,31 @@
 ---
 layout: single
-title: "Research"
+title: "Publications"
 permalink: /research/
 author_profile: true
 ---
-
-## Publications
 
 ### Statistical Inference under Adaptive Sampling with LinUCB
 **Wei Fan**\*, Kevin Tan\*, Yuting Wei (\* equal contribution)
 Preprint, 2025  [Paper](https://arxiv.org/pdf/2512.00222)
 
+<details>
+  <summary><strong>Abstract</strong></summary>
+  Adaptively collected data has become ubiquitous within modern practice. However, even seemingly benign adaptive sampling schemes can introduce severe biases, rendering traditional statistical inference tools inapplicable. This can be mitigated by a property called stability, which states that if the rate at which an algorithm takes actions converges to a deterministic limit, one can expect that certain parameters are asymptotically normal. Building on a recent line of work for the multi-armed bandit setting, we show that the linear upper confidence bound (LinUCB) algorithm for linear bandits satisfies this property. In doing so, we painstakingly characterize the behavior of the eigenvalues and eigenvectors of the random design feature covariance matrix in the setting where the action set is the unit ball, showing that it decomposes into a rank-one direction that locks onto the true parameter and an almost-isotropic bulk that grows at a predictable $\sqrt{T}$ rate. This allows us to establish a central limit theorem for the LinUCB algorithm, establishing asymptotic normality for the limiting distribution of the estimation error where the convergence occurs at a $T^{-1/4}$ rate. The resulting Wald-type confidence sets and hypothesis tests do not depend on the feature covariance matrix and are asymptotically tighter than existing nonasymptotic confidence sets. Numerical simulations corroborate our findings.
+</details>
+
+
+
+---
+
 ### Actor-Critics Can Achieve Optimal Sample Efficiency
 Kevin Tan\*, **Wei Fan**\*, Yuting Wei (\* equal contribution)
 ICML, 2025  [Paper](https://arxiv.org/pdf/2505.03710)
+
+<details>
+  <summary><strong>Abstract</strong></summary>
+  Actor-critic algorithms have become a cornerstone in reinforcement learning (RL), leveraging the strengths of both policy-based and value-based methods. Despite recent progress in understanding their statistical efficiency, no existing work has successfully learned an $\epsilon$-optimal policy with a sample complexity of $O(1/\epsilon^2)$ trajectories with general function approximation when strategic exploration is necessary.
+  We address this open problem by introducing a novel actor-critic algorithm that attains a sample-complexity of $O(dH^5 \log|\mathcal{A}|/\epsilon^2 + d H^4 \log|\mathcal{F}|/ \epsilon^2)$ trajectories, and accompanying $\sqrt{T}$ regret when the Bellman eluder dimension $d$ does not increase with $T$ at more than a $\log T$ rate.
+  Here, $\mathcal{F}$ is the critic function class, $\mathcal{A}$ is the action space, and $H$ is the horizon in the finite horizon MDP setting. Our algorithm integrates optimism, off-policy critic estimation targeting the optimal Q-function, and rare-switching policy resets.
+  We extend this to the setting of Hybrid RL, showing that initializing the critic with offline data yields sample efficiency gains compared to purely offline or online RL. Further, utilizing access to offline data, we provide a \textit{non-optimistic} provably efficient actor-critic algorithm that only additionally requires $N_{\text{off}} \geq c_{\text{off}}^*dH^4/\epsilon^2$ in exchange for omitting optimism, where $c_{\text{off}}^*$ is the single-policy concentrability coefficient and $N_{\text{off}}$ is the number of offline samples. This addresses another open problem in the literature. We further provide numerical experiments to support our theoretical findings.
+</details>
