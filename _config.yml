@@ -25,9 +25,5 @@ author:
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=t3HOsqwAAAAJ&hl=en"
 
-# Tell the theme which navigation menu to use (we'll create it in Step 4)
-collections:
-  news:
-    output: true
 
 
