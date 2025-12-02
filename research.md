@@ -5,13 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-### Statistical Inference under Adaptive Sampling with LinUCB
+### [Statistical Inference under Adaptive Sampling with LinUCB](https://arxiv.org/pdf/2512.00222)
 **Wei Fan**\*, Kevin Tan\*, Yuting Wei (\* equal contribution)
-
 Preprint, 2025  
-
-[Paper](https://arxiv.org/pdf/2512.00222)
-
 <details>
   <summary><strong>Abstract</strong></summary>
   Adaptively collected data has become ubiquitous within modern practice. However, even seemingly benign adaptive sampling schemes can introduce severe biases, rendering traditional statistical inference tools inapplicable. This can be mitigated by a property called stability, which states that if the rate at which an algorithm takes actions converges to a deterministic limit, one can expect that certain parameters are asymptotically normal. Building on a recent line of work for the multi-armed bandit setting, we show that the linear upper confidence bound (LinUCB) algorithm for linear bandits satisfies this property. In doing so, we painstakingly characterize the behavior of the eigenvalues and eigenvectors of the random design feature covariance matrix in the setting where the action set is the unit ball, showing that it decomposes into a rank-one direction that locks onto the true parameter and an almost-isotropic bulk that grows at a predictable $\sqrt{T}$ rate. This allows us to establish a central limit theorem for the LinUCB algorithm, establishing asymptotic normality for the limiting distribution of the estimation error where the convergence occurs at a $T^{-1/4}$ rate. The resulting Wald-type confidence sets and hypothesis tests do not depend on the feature covariance matrix and are asymptotically tighter than existing nonasymptotic confidence sets. Numerical simulations corroborate our findings.
