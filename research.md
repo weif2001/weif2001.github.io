@@ -30,7 +30,7 @@ author_profile: true
 
 ---
 
-### [Hybrid reinforcement learning breaks sample size barriers in linear mdps](https://arxiv.org/pdf/2408.04526)
+### [Hybrid reinforcement learning breaks sample size barriers in linear MDPs](https://arxiv.org/pdf/2408.04526)
   - Kevin Tan, **Wei Fan**, Yuting Wei
   - In Advances in Neural Information Processing Systems, 2024  
 <details>
