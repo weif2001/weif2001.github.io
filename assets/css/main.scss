@@ -7,26 +7,35 @@
 
 /* ===== Your overrides start here ===== */
 
-/* Make body text smaller */
-body {
-  font-size: 12px;  /* try 13px if you want it even smaller */
+/* Base font size a bit smaller */
+html {
+  font-size: 14px;  /* theme default ~16px; lower = smaller everywhere */
 }
 
-/* Make main page titles smaller */
-.page-title, h1 {
-  font-size: 22px;
+/* Main content text (paragraphs + list items) */
+.page__content p,
+.page__content li {
+  font-size: 0.9rem;   /* 0.9 of the base size; try 0.8 if you want even smaller */
+}
+
+/* Page title ("About me", etc.) */
+.page-title,
+h1 {
+  font-size: 1.6rem;   /* slightly smaller than default */
 }
 
 /* Section headings */
 h2 {
-  font-size: 16px;
+  font-size: 1.3rem;
 }
 
 h3 {
-  font-size: 14px;
+  font-size: 1.1rem;
 }
 
 /* Sidebar text (name, email, links) */
-.sidebar {
-  font-size: 10px;
+.sidebar__content,
+.sidebar .social-icons li {
+  font-size: 0.8rem;
 }
+
