@@ -27,10 +27,7 @@ author:
 
 # Tell the theme which navigation menu to use (we'll create it in Step 4)
 collections:
-  posts:
+  news:
     output: true
 
-header_pages:
-  - index.md
-  - about.md
 
