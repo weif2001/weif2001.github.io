@@ -18,8 +18,8 @@ author_profile: true
 ---
 
 ### [Actor-Critics Can Achieve Optimal Sample Efficiency](https://arxiv.org/pdf/2505.03710)
-  -Kevin Tan\*, **Wei Fan**\*, Yuting Wei (\* equal contribution)
-  -In Forty-second International Conference on Machine Learning, 2025 
+  - Kevin Tan\*, **Wei Fan**\*, Yuting Wei (\* equal contribution)
+  - In Forty-second International Conference on Machine Learning, 2025 
 <details>
   <summary><strong>Abstract</strong></summary>
   Actor-critic algorithms have become a cornerstone in reinforcement learning (RL), leveraging the strengths of both policy-based and value-based methods. Despite recent progress in understanding their statistical efficiency, no existing work has successfully learned an $\epsilon$-optimal policy with a sample complexity of $O(1/\epsilon^2)$ trajectories with general function approximation when strategic exploration is necessary.
@@ -31,8 +31,8 @@ author_profile: true
 ---
 
 ### [Hybrid reinforcement learning breaks sample size barriers in linear mdps](https://arxiv.org/pdf/2408.04526)
-  -Kevin Tan, **Wei Fan**, Yuting Wei
-  -In Advances in Neural Information Processing Systems, 2024  
+  - Kevin Tan, **Wei Fan**, Yuting Wei
+  - In Advances in Neural Information Processing Systems, 2024  
 <details>
   <summary><strong>Abstract</strong></summary>
   Hybrid Reinforcement Learning (RL), where an agent learns from both an offline dataset and online explorations in an unknown environment, has garnered significant recent interest. 
