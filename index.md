@@ -9,3 +9,5 @@ Hi! I’m Wei Fan, a fourth year PhD student in Statistics and Data Science at t
 My research interests include high dimensional statistics, reinforcement learning, bandits and online learning.
 
 Previously, I was an undergraduate at the University of Science and Technology of China, where I received a Bachelor of Science (B.S.) in Mathematics and Applied Mathematics.
+
+Email: weif@wharton.upenn.edu
