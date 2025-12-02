@@ -1,9 +1,34 @@
 title: "Wei Fan"
-description: "Personal homepage"
+name: "Wei Fan"
+description: "PhD student in Statistics and Data Science, Wharton"
 url: "https://weif2001.github.io"
 baseurl: ""
 
-theme: minima
+# Use the Minimal Mistakes theme
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+# Author info for the left sidebar
+author:
+  name: "Wei Fan"
+  avatar: "/assets/images/profile.jpg"  # we'll add this file in Step 2
+  bio: "PhD student in Statistics and Data Science at the Wharton School, University of Pennsylvania."
+  location: "Philadelphia, PA"
+  email: "weif@wharton.upenn.edu"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/weif2001"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=t3HOsqwAAAAJ&hl=en"
+
+# Tell the theme which navigation menu to use (we'll create it in Step 4)
+collections:
+  posts:
+    output: true
 
 header_pages:
   - index.md
