@@ -15,7 +15,7 @@ plugins:
 author:
   name: "Wei Fan"
   avatar: "/assets/images/profile.jpg"  # we'll add this file in Step 2
-  bio: "PhD student in Statistics and Data Science at the Wharton School, University of Pennsylvania."
+  bio: "Statistics PhD at Wharton, UPenn."
   location: "Philadelphia, PA"
   email: "weif@wharton.upenn.edu"
   links:
