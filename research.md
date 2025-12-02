@@ -7,7 +7,10 @@ author_profile: true
 
 ### Statistical Inference under Adaptive Sampling with LinUCB
 **Wei Fan**\*, Kevin Tan\*, Yuting Wei (\* equal contribution)
-Preprint, 2025  [Paper](https://arxiv.org/pdf/2512.00222)
+
+Preprint, 2025  
+
+[Paper](https://arxiv.org/pdf/2512.00222)
 
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -20,7 +23,10 @@ Preprint, 2025  [Paper](https://arxiv.org/pdf/2512.00222)
 
 ### Actor-Critics Can Achieve Optimal Sample Efficiency
 Kevin Tan\*, **Wei Fan**\*, Yuting Wei (\* equal contribution)
-ICML, 2025  [Paper](https://arxiv.org/pdf/2505.03710)
+
+In Forty-second International Conference on Machine Learning, 2025  
+
+[Paper](https://arxiv.org/pdf/2505.03710)
 
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -34,7 +40,10 @@ ICML, 2025  [Paper](https://arxiv.org/pdf/2505.03710)
 
 ### Hybrid reinforcement learning breaks sample size barriers in linear mdps ###
 Kevin Tan, **Wei Fan**, Yuting Wei
-NeurIPs, 2024  [Paper](https://arxiv.org/pdf/2408.04526)
+
+In Advances in Neural Information Processing Systems, 2024  
+
+[Paper](https://arxiv.org/pdf/2408.04526)
 
 <details>
   <summary><strong>Abstract</strong></summary>
