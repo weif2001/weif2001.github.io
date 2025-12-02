@@ -10,9 +10,6 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
-# Load my custom CSS overrides
-custom_css:
-  - /assets/css/custom.css
 
 # Author info for the left sidebar
 author:
