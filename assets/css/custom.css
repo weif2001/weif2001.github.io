@@ -1,0 +1,21 @@
+
+body {
+  font-size: 16px;   /* default ~18px; try 15px or 14px if you want smaller */
+}
+
+/* Reduce headings */
+h1, .page-title {
+  font-size: 28px !important; /* default ~32–36px */
+}
+
+h2 {
+  font-size: 22px !important;
+}
+
+h3 {
+  font-size: 18px !important;
+}
+
+.sidebar {
+  font-size: 14px !important; /* affects sidebar items: email, location, links */
+}
