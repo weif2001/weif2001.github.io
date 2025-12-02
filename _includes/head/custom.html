@@ -32,23 +32,25 @@ h3 {
   line-height: 1.4;
 }
 
-/* --- Move masthead navigation to the left --- */
+  .greedy-nav {
+    display: flex;
+    justify-content: flex-start;   /* title + links start from the left */
+  }
 
-/* Put everything in the header in a row starting from the left */
-.masthead__inner-wrap {
-  justify-content: flex-start;
-}
+  /* put some space between "Wei Fan" and the menu items */
+  .greedy-nav .site-title {
+    margin-right: 2rem;
+  }
 
-/* Stop the nav from floating to the right */
-.masthead__menu .site-nav,
-.masthead__menu #site-nav {
-  float: none;
-}
+  /* remove the auto-push that sends nav items to the right */
+  .greedy-nav .visible-links {
+    margin-left: 0;
+  }
 
-/* Make sure nav items start from the left */
-.greedy-nav .visible-links {
-  margin-left: 0;
-}
+  /* make sure menu items don't float right */
+  .greedy-nav .visible-links li {
+    float: none;
+  }
 
 
 </style>
