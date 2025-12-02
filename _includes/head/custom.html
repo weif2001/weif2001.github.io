@@ -32,25 +32,24 @@ h3 {
   line-height: 1.4;
 }
 
-  .greedy-nav {
-    display: flex;
-    justify-content: flex-start;   /* title + links start from the left */
-  }
+nav.greedy-nav {
+  display: flex;
+  justify-content: flex-start !important;  /* left-align contents */
+}
 
-  /* put some space between "Wei Fan" and the menu items */
-  .greedy-nav .site-title {
-    margin-right: 2rem;
-  }
+/* push links right next to the title, not to the far right */
+nav.greedy-nav .site-title {
+  margin-right: 2rem !important;
+}
 
-  /* remove the auto-push that sends nav items to the right */
-  .greedy-nav .visible-links {
-    margin-left: 0;
-  }
+/* stop the links from auto-pushing to the right */
+nav.greedy-nav .visible-links {
+  margin-left: 0 !important;
+}
 
-  /* make sure menu items don't float right */
-  .greedy-nav .visible-links li {
-    float: none;
-  }
-
+/* make sure individual items don't float right */
+nav.greedy-nav .visible-links li {
+  float: none !important;
+}
 
 </style>
