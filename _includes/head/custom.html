@@ -32,4 +32,23 @@ h3 {
   line-height: 1.4;
 }
 
+/* --- Move masthead navigation to the left --- */
+
+/* Put everything in the header in a row starting from the left */
+.masthead__inner-wrap {
+  justify-content: flex-start;
+}
+
+/* Stop the nav from floating to the right */
+.masthead__menu .site-nav,
+.masthead__menu #site-nav {
+  float: none;
+}
+
+/* Make sure nav items start from the left */
+.greedy-nav .visible-links {
+  margin-left: 0;
+}
+
+
 </style>
