@@ -30,7 +30,7 @@ author_profile: true
 
 ---
 
-### [Hybrid reinforcement learning breaks sample size barriers in linear MDPs](https://arxiv.org/pdf/2408.04526)
+### [Hybrid Reinforcement Learning Breaks Sample Size Barriers in Linear MDPs](https://arxiv.org/pdf/2408.04526)
   - Kevin Tan, **Wei Fan**, Yuting Wei
   - In Advances in Neural Information Processing Systems, 2024  
 <details>
@@ -45,7 +45,7 @@ author_profile: true
 
 ---
 
-### [Approximate message passing from random initialization with applications to $Z_2$ synchronization](https://www.pnas.org/doi/abs/10.1073/pnas.2302930120)
+### [Approximate Message Passing From Random Initialization with Applications to $Z_2$ Synchronization](https://www.pnas.org/doi/abs/10.1073/pnas.2302930120)
   - Gen Li, Wei Fan, Yuting Wei
   - Proceedings of the National Academy of Sciences, 2023
 <details>
@@ -55,7 +55,7 @@ This paper is concerned with the problem of reconstructing an unknown rank-one m
 
 ---
 
-### [A hyperbolic divergence based nonparametric test for two-sample multivariate distributions](https://onlinelibrary.wiley.com/doi/full/10.1002/cjs.11736)
+### [A Hyperbolic Divergence Based Nonparametric Test for Two-sample Multivariate Distributions](https://onlinelibrary.wiley.com/doi/full/10.1002/cjs.11736)
   - Roulin Wang, Wei Fan, Xueqin Wang
   - Canadian Journal of Statistics, 2022
 <details>
