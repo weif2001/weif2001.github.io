@@ -11,3 +11,6 @@ My research interests include high dimensional statistics, reinforcement learnin
 Previously, I was an undergraduate at the University of Science and Technology of China, where I received a Bachelor of Science (B.S.) in Mathematics and Applied Mathematics.
 
 Email: weif@wharton.upenn.edu
+
+## News
+ - \[2025/12\] We are excited to share our recent work on the asymptotic of LinUCB
