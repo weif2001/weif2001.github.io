@@ -10,7 +10,5 @@ My research interests include high dimensional statistics, reinforcement learnin
 
 Previously, I was an undergraduate at the University of Science and Technology of China, where I received a Bachelor of Science (B.S.) in Mathematics and Applied Mathematics.
 
-Email: weif@wharton.upenn.edu
-
 ## News
- - \[2025/12\] We are excited to share our recent work on the asymptotic of LinUCB
+ - \[2025/12\]We’re excited to share our recent work on the asymptotics of LinUCB. We show that even though LinUCB collects dependent data, its estimator still converges to a normal distribution asymptotically—just with a scaling of $T^{1/4}$ rate rather than the classical $\sqrt{T}$. This enables us to construct confidence intervals and perform valid statistical inference. Feel free to check out [our paper](https://arxiv.org/pdf/2512.00222) if you are interested!
