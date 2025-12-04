@@ -45,12 +45,12 @@ author_profile: true
 
 ---
 
-### [Approximate Message Passing From Random Initialization with Applications to $Z_2$ Synchronization](https://www.pnas.org/doi/abs/10.1073/pnas.2302930120)
+### [Approximate Message Passing From Random Initialization with Applications to $\mathbb{Z}_2$ Synchronization](https://www.pnas.org/doi/abs/10.1073/pnas.2302930120)
   - Gen Li, **Wei Fan**, Yuting Wei
   - Proceedings of the National Academy of Sciences, 2023
 <details>
   <summary><strong>Abstract</strong></summary>
-This paper is concerned with the problem of reconstructing an unknown rank-one matrix with prior structural information from noisy observations. While computing the Bayes optimal estimator is intractable in general due to the requirement of computing high-dimensional integrations/summations, Approximate Message Passing (AMP) emerges as an efficient first-order method to approximate the Bayes optimal estimator. However, the theoretical underpinnings of AMP remain largely unavailable when it starts from random initialization, a scheme of critical practical utility. Focusing on a prototypical model called $Z_2$ synchronization, we characterize the finite-sample dynamics of AMP from random initialization, uncovering its rapid global convergence. Our theory—which is nonasymptotic in nature—in this model unveils the nonnecessity of a careful initialization for the success of AMP.
+This paper is concerned with the problem of reconstructing an unknown rank-one matrix with prior structural information from noisy observations. While computing the Bayes optimal estimator is intractable in general due to the requirement of computing high-dimensional integrations/summations, Approximate Message Passing (AMP) emerges as an efficient first-order method to approximate the Bayes optimal estimator. However, the theoretical underpinnings of AMP remain largely unavailable when it starts from random initialization, a scheme of critical practical utility. Focusing on a prototypical model called $\mathbb{Z}_2$ synchronization, we characterize the finite-sample dynamics of AMP from random initialization, uncovering its rapid global convergence. Our theory—which is nonasymptotic in nature—in this model unveils the nonnecessity of a careful initialization for the success of AMP.
 </details>
 
 ---
