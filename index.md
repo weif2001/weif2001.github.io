@@ -11,4 +11,4 @@ My research interests include high dimensional statistics, reinforcement learnin
 Previously, I was an undergraduate at the University of Science and Technology of China, where I received a Bachelor of Science (B.S.) in Mathematics and Applied Mathematics.
 
 ## News
- - \[2025/12\] I'm excited to share our [recent paper](https://arxiv.org/pdf/2512.00222) on the asymptotics of LinUCB, with my amazing collaborators [Kevin](https://hetankevin.github.io/) and Yuting. We establish asymptotic normality for the LinUCB estimator under a $T^{1/4}$ scaling, rather than the classical $\sqrt{T}$. Feel free to check it out if you are interested!
+ - \[2025/12\] I'm excited to share our [recent paper](https://arxiv.org/pdf/2512.00222) on the asymptotics of LinUCB, with my amazing collaborators [Kevin](https://hetankevin.github.io/) and Yuting. We establish asymptotic normality for the LinUCB estimator under a $T^{1/4}$ scaling, rather than the classical $\sqrt{T}$. Feel free to check it out!
